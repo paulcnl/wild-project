@@ -136,3 +136,52 @@ git push
 git status
 git push
 git push 
+/wild-tac
+cd wild-tac
+git init
+git status
+git push
+git push
+git status
+git commit
+git add .
+git status
+git commit -m
+git commit -m "Modified"
+git push
+git remote add git@github.com:paulcnl/wild-project.git
+git push
+git push wild-tac
+git push main
+git main
+git pusg
+git push
+git remote add origin https://github.com/paulcnl/wild-project
+git push
+git remote add wild-tic git@github.com:paulcnl/wild-project.git
+git push
+git status
+git push
+ls
+cd wild-tac
+git push
+git pusg
+git push
+git config --global Samvel6
+git config --global user.name Samvel
+git config --global user.name Samvel6
+git config --global user.email samvel.saroukhanyan@gmail.com
+cd ..wild-tic
+cd ..wild-tac
+cd wild-tac
+git status
+git pull
+cd ..wild-tac 
+cd
+cd wild-tac
+git@github.com:paulcnl/wild-project.git
+git remote add origin git@github.com:paulcnl/wild-project.git
+git push
+git init
+git status
+git remote add origin git@github.com:paulcnl/wild-project.git
